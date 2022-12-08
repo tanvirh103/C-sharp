@@ -1,0 +1,14 @@
+C:\Users\Tanvir Hasan\source\repos\Employeesln\Employee\bin\Debug\Employee.exe.config
+C:\Users\Tanvir Hasan\source\repos\Employeesln\Employee\bin\Debug\Employee.exe
+C:\Users\Tanvir Hasan\source\repos\Employeesln\Employee\bin\Debug\Employee.pdb
+C:\Users\Tanvir Hasan\source\repos\Employeesln\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\Tanvir Hasan\source\repos\Employeesln\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir Hasan\source\repos\Employeesln\Employee\obj\Debug\Employee.exe
+C:\Users\Tanvir Hasan\source\repos\Employeesln\Employee\obj\Debug\Employee.pdb
+E:\Visual Studio\Employeesln\Employee\bin\Debug\Employee.exe.config
+E:\Visual Studio\Employeesln\Employee\bin\Debug\Employee.exe
+E:\Visual Studio\Employeesln\Employee\bin\Debug\Employee.pdb
+E:\Visual Studio\Employeesln\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+E:\Visual Studio\Employeesln\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Employeesln\Employee\obj\Debug\Employee.exe
+E:\Visual Studio\Employeesln\Employee\obj\Debug\Employee.pdb
